@@ -16,7 +16,9 @@ cors (For handling cross-origin requests)
 **Installation
 1. Clone the repository:
 
-git clone <your-repo-link>
+git clone <https://github.com/velmuruganmahalingam/Emp-Management.git
+
+>
 cd backend
 2. Install dependencies:
 

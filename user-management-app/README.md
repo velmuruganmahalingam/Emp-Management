@@ -34,7 +34,9 @@ Delete users (Stored in database)
 
 Clone the repository:
 
-git clone <your-repo-link>
+git clone <https://github.com/velmuruganmahalingam/Emp-Management.git
+
+>
 cd frontend
 
 Install dependencies:
